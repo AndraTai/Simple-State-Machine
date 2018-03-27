@@ -1,6 +1,6 @@
 # Simple-State-Machine
 
 <h2>SimpleStateMachine<br/>
-<p>Defining state related rule.
+<h6><p>Defining state related rule.
 <h2>SampleCode<br/>
-<p>How to use state machine.
+<h6><p>How to use state machine.
